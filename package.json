@@ -26,7 +26,7 @@
     "@rx-angular/cdk": "latest",
     "@rx-angular/template": "^15.1.0",
     "marked": "^4.2.12",
-    "rxjs": "^7.4.0",
+    "rxjs": "^7.8.1",
     "tslib": "^2.3.0",
     "zone.js": "~0.12.0"
   },
